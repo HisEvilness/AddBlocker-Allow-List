@@ -1,0 +1,46 @@
+This list features domains that are generic domains that, at times, are being aggressively blocked.
+
+# --- Microsoft Core / Updates / Connectivity ---
+*.windowsupdate.com
+*.update.microsoft.com
+*.microsoft.com
+*.microsoftonline.com
+*.msftconnecttest.com
+*.msftncsi.com
+
+# --- Gaming Platforms ---
+*.steampowered.com
+*.steamcontent.com
+*.steamstatic.com
+*.steamcommunity.com
+*.playstation.net
+*.playstation.com
+*.xboxlive.com
+*.epicgames.com
+*.battle.net
+*.blizzard.com
+
+# --- GPU Drivers & Telemetry / Required for Updates ---
+*.nvidia.com
+*.nvgs.nvidia.com
+*.geforce.com
+*.amd.com
+*.ati.com
+
+# --- Media & Streaming Services (Plex and Automations) ---
+*.plex.tv
+*.plex.direct
+*.plex.bz
+*.plexapp.com
+*.themoviedb.org
+*.tmdb.org
+
+# --- Infrastructure & CDN Required by Above Services ---
+*.cloudfront.net
+*.fastly.net
+*.akamaihd.net
+*.akamai.net
+*.edgesuite.net
+*.edgekey.net
+*.gstatic.com
+*.googleapis.com
