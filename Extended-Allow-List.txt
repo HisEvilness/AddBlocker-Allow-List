@@ -1,0 +1,92 @@
+# ==========================================================
+# Extended Allowlist - General Service Availability
+# Optional add-on to allow-core.txt
+# ==========================================================
+
+# --- Metadata & Media Enhancement ---
+*.themoviedb.org
+*.tmdb.org
+*.fanart.tv
+*.tvmaze.com
+*.imdb.com
+*.musicbrainz.org
+*.coverartarchive.org
+*.audiodb.net
+*.audiodb.com
+
+# --- Indexer / Search Services ---
+*.prowlarr.com
+*.jackett.run
+*.torznab.com
+*.nzbgeek.info
+*.nzbplanet.net
+*.omgwtfnzbs.me
+
+# --- Subtitle Services ---
+*.bazarr.media
+*.opensubtitles.org
+*.opensubtitles.com
+*.subdb.com
+*.subscene.com
+*.podnapisi.net
+
+# --- Self-Hosted Automation Integration ---
+*.sonarr.tv
+*.radarr.video
+*.radarr.app
+*.lidarr.audio
+*.readarr.com
+*.overseerr.dev
+*.tautulli.com
+
+# --- CDN / Delivery Networks ---
+*.cloudflare.com
+*.cloudflare.net
+*.cloudfront.net
+*.fastly.net
+*.akamai.net
+*.akamaized.net
+*.edgesuite.net
+
+# --- Gaming & Launcher Ecosystem ---
+*.battlenet.com
+*.battle.net
+*.ea.com
+*.riotgames.com
+*.origin.com
+*.uplay.com
+*.rockstargames.com
+*.gog.com
+*.bethesda.net
+
+# --- Chat / Communication ---
+*.discord.com
+*.discord.gg
+*.discordapp.com
+*.slack.com
+*.zoom.us
+*.telegram.org
+*.whatsapp.net
+
+# --- Smart TV & Casting (optional but recommended) ---
+*.androidtv.com
+*.googlecast.com
+*.chromecast.com
+*.roku.com
+*.samsungcloudcdn.com
+*.lgappstv.com
+
+# --- Gaming Metadata Services ---
+*.steamstatic.com
+*.steampoweredcdn.com
+*.playstation.net
+*.xboxlive.com
+*.xbox.com
+*.nintendo.net
+
+# --- Misc Infrastructure ---
+*.1e100.net
+*.googleapis.com
+*.gstatic.com
+*.msedge.net
+*.cdn.register.com
