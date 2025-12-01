@@ -8,7 +8,7 @@ Allowlist Structure
 
 --- Core Allowlist: Primary allowlist restoring functionality for widely-used services incorrectly blocked by privacy filters. Safe for all deployments. https://raw.githubusercontent.com/HisEvilness/AddBlocker-Allow-List/refs/heads/main/Core-Allow-List.txt
 
---- Extended Allowlist: Optional allowlist for advanced users. Includes additional platforms, infrastructure services, CDNs, gaming, media, and communication endpoints.
+--- Extended Allowlist: Optional allowlist for advanced users. Includes additional platforms, infrastructure services, CDNs, gaming, media, and communication endpoints. https://raw.githubusercontent.com/HisEvilness/AddBlocker-Allow-List/refs/heads/main/Extended-Allow-List.txt
 
 Start with Core. Add Extended only when needed to fix functionality issues.
 
