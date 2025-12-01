@@ -7,8 +7,8 @@ A centralized allowlist repository designed to resolve false positives caused by
 Allowlist Structure
 List	Description	Raw URL
 
---- Core Allowlist	Primary allowlist restoring functionality for widely-used services incorrectly blocked by privacy filters. Safe for all deployments.	https://raw.githubusercontent.com/<username>/<repo>/main/allow-core.txt
---- Extended Allowlist	Optional allowlist for advanced users. Includes additional platforms, infrastructure services, CDNs, gaming, media, and communication endpoints.	https://raw.githubusercontent.com/<username>/<repo>/main/allow-extended.txt
+--- Core Allowlist: Primary allowlist restoring functionality for widely-used services incorrectly blocked by privacy filters. Safe for all deployments.
+--- Extended Allowlist: Optional allowlist for advanced users. Includes additional platforms, infrastructure services, CDNs, gaming, media, and communication endpoints.
 
 Start with Core. Add Extended only when needed to fix functionality issues.
 
