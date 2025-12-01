@@ -5,9 +5,9 @@ Unified DNS Allowlist
 A centralized allowlist repository designed to resolve false positives caused by aggressive DNS filtering configurations. Optimized for AdGuard Home, Pi-hole, NextDNS, and broader DNS-based security appliances that require controlled access restoration to legitimate services.
 
 Allowlist Structure
-List	Description	Raw URL
 
 --- Core Allowlist: Primary allowlist restoring functionality for widely-used services incorrectly blocked by privacy filters. Safe for all deployments.
+
 --- Extended Allowlist: Optional allowlist for advanced users. Includes additional platforms, infrastructure services, CDNs, gaming, media, and communication endpoints.
 
 Start with Core. Add Extended only when needed to fix functionality issues.
