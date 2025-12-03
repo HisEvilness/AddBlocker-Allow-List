@@ -48,3 +48,10 @@ This list features domains that are generic domains that, at times, are being ag
 # --- Time Sync Services ---
 *.ntp.org
 time1.google.com
+*.ntp.org
+ntp.ubuntu.com
+time.google.com
+time1.google.com
+time2.google.com
+time.cloudflare.com
+time.windows.com
