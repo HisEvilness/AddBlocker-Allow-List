@@ -44,3 +44,7 @@ This list features domains that are generic domains that, at times, are being ag
 *.edgekey.net
 *.gstatic.com
 *.googleapis.com
+
+# --- Time Sync Services ---
+*.ntp.org
+time1.google.com
